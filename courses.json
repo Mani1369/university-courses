@@ -4,19 +4,19 @@
       "Name": "ریاضی عمومی 1",
       "category": "پایه",
       "fileName": "math1.pdf",
-      "pdfUrl": "https://example.com/math.pdf"
+      "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
     },
     "physics1": {
       "Name": "فیزیک 1",
       "category": "پایه",
       "fileName": "physics1.pdf",
-      "pdfUrl": "https://example.com/physics.pdf"
+      "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
     },
     "programming": {
       "Name": "برنامه نویسی",
       "category": "تخصصی",
       "fileName": "programming.pdf",
-      "pdfUrl": "https://example.com/programming.pdf"
+      "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
     }
   }
 }
