@@ -1,0 +1,22 @@
+{
+  "courses": {
+    "math1": {
+      "Name": "ریاضی عمومی 1",
+      "category": "پایه",
+      "fileName": "math1.pdf",
+      "pdfUrl": "https://example.com/math.pdf"
+    },
+    "physics1": {
+      "Name": "فیزیک 1",
+      "category": "پایه",
+      "fileName": "physics1.pdf",
+      "pdfUrl": "https://example.com/physics.pdf"
+    },
+    "programming": {
+      "Name": "برنامه نویسی",
+      "category": "تخصصی",
+      "fileName": "programming.pdf",
+      "pdfUrl": "https://example.com/programming.pdf"
+    }
+  }
+}
