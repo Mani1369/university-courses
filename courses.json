@@ -10,13 +10,13 @@
       "Name": "فیزیک 1",
       "category": "پایه",
       "fileName": "physics1.pdf",
-      "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      "pdfUrl": "https://raw.githubusercontent.com/Mani1369/university-courses/main/physiscs1.pdf"
     },
     "programming": {
       "Name": "برنامه نویسی",
       "category": "تخصصی",
       "fileName": "programming.pdf",
-      "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      "pdfUrl": "https://raw.githubusercontent.com/Mani1369/university-courses/main/programming.pdf"
     }
   }
 }
